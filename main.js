@@ -21,7 +21,7 @@ $btnNo.addEventListener('mouseover', (e) =>{
     $target.style.right = `${Math.random() * 200}px`
 
     if(counter >= 5) {
-        $target.innerHTML = 'HAHAHAAHA'
+        $target.innerHTML = 'मना नहीं करने दूंगा'
     }
 
     counter += 1
